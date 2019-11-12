@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reinvent-dev-155026-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148827594313:role/amplify-reinvent-dev-155026-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148827594313:role/amplify-reinvent-dev-155026-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-reinvent-dev-155026-deployment",
+            "UnauthRoleName": "amplify-reinvent-dev-155026-unauthRole",
+            "StackName": "amplify-reinvent-dev-155026",
+            "StackId": "arn:aws:cloudformation:us-west-2:148827594313:stack/amplify-reinvent-dev-155026/38141920-05a7-11ea-a319-06d9085df35e",
+            "AmplifyAppId": "d8mrk9v5zmzss"
+        },
+        "categories": {
+            "function": {
+                "reinventf8ab5c6b": {}
+            }
+        }
+    }
+}
